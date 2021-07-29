@@ -8,6 +8,6 @@ A Stock Market Price Predicion model using a Long Short-Term Memory with 4 hidde
 Achieved an overall loss of around (~0.12%) which is 0.0012 validation loss over 120 days past data training running for 200 epochs, calculated as Root mean squared error calculation.
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/88108754/127496654-ed085dca-fd9e-474b-aecb-33b4f98febf1.png)
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/88108754/127496654-ed085dca-fd9e-474b-aecb-33b4f98febf1.png">
 </p>
 
